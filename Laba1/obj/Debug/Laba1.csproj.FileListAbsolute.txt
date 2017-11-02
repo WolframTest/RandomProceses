@@ -1,0 +1,9 @@
+C:\MyFolder\С#\ВипадковіПроцеси\Laba1\Laba1\bin\Debug\Laba1.exe.config
+C:\MyFolder\С#\ВипадковіПроцеси\Laba1\Laba1\bin\Debug\Laba1.exe
+C:\MyFolder\С#\ВипадковіПроцеси\Laba1\Laba1\bin\Debug\Laba1.pdb
+C:\MyFolder\С#\ВипадковіПроцеси\Laba1\Laba1\obj\Debug\Laba1.csprojResolveAssemblyReference.cache
+C:\MyFolder\С#\ВипадковіПроцеси\Laba1\Laba1\obj\Debug\Laba1.Form1.resources
+C:\MyFolder\С#\ВипадковіПроцеси\Laba1\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+C:\MyFolder\С#\ВипадковіПроцеси\Laba1\Laba1\obj\Debug\Laba1.csproj.GenerateResource.Cache
+C:\MyFolder\С#\ВипадковіПроцеси\Laba1\Laba1\obj\Debug\Laba1.exe
+C:\MyFolder\С#\ВипадковіПроцеси\Laba1\Laba1\obj\Debug\Laba1.pdb
