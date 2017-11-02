@@ -13,6 +13,7 @@ namespace Laba1
 {
     public partial class Form1 : Form
     {
+//new
         private List<double> X;
         private List<double> Y;
         private int N;
